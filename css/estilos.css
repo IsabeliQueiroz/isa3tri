@@ -6,6 +6,11 @@
   --luz: rgb(146, 98, 207);
 }
 
+.titao{
+  font-family: 'Sacramento', cursive;
+  font-size: 9em;
+}
+
 body {
   align-items: center;
   background: linear-gradient(45deg, #dbb3f3 0%,#4d0a74 100%);
@@ -15,6 +20,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
 }
+
 
 h1 {
   color: var(--branca);
