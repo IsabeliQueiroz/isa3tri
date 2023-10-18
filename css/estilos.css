@@ -1,9 +1,9 @@
 :root {
   --cinza: #aaa;
-  --vermelha: #9f28af;
-  --vermelha-escura: #b938e0;
+  --vermelha: #df275e;
+  --vermelha-escura: #d8296c;
   --branca: #fff;
-  --luz: rgb(146, 98, 207);
+  --luz: rgb(255, 255, 255);
 }
 
 .titao{
@@ -13,7 +13,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #dbb3f3 0%,#4d0a74 100%);
+  background: linear-gradient(45deg, #b6fcf6 0%,#ff006a 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
